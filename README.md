@@ -11,11 +11,19 @@ For testing, you it was used the checkpoint I saved in the first part.
 
 # Requirements
 os
+
 torch
+
 pandas
+
 numpy
+
 PIL
+
 torchvision
+
 matplotlib
+
 json
+
 collections
